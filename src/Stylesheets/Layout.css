@@ -1,0 +1,40 @@
+.header{
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    z-index:2;
+}
+
+.content{
+    padding-top: 80px;
+}
+.navbar{
+    background-color: #003F5c !important;
+}
+
+.navbar-brand, .nav-link{
+    color: white !important;
+}
+
+.footer{
+    text-align: center;
+    background-color: #003F5c;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+}
+
+button{
+    border-radius: 5px;
+    background-color: #cdceb2;
+    color: black;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: rgb(63, 217, 237);
+}

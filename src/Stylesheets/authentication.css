@@ -1,0 +1,29 @@
+.register-container {
+    height: 100vh !important;
+    position: relative !important;
+}
+
+.login {
+    background-color: #f0f8ff;
+    height: 100vh !important;
+}
+
+.form-control {
+    box-shadow: none;
+}
+
+.form-control:focus {
+    margin-top: 15px !important;
+    box-shadow: none !important;
+}
+
+input {
+    margin-top: 15px !important;
+    text-transform: none !important;
+}
+
+.register-form {
+    box-shadow: 0 0 5px 2px #adb0b1;
+    padding: 50px;
+    background-color: #fff;
+}
